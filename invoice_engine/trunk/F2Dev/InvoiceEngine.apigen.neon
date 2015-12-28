@@ -1,0 +1,12 @@
+#
+#
+source: InvoiceEngine
+destination: InvoiceEngine_docs
+#exclude: */InvoiceEngine/Vendors/*
+skipDocPath: */InvoiceEngine/Vendors/*
+main: InvoiceEngine
+title: InvoiceEngine Project
+
+
+googleAnalytics: UA-18562080-4
+download: yes
